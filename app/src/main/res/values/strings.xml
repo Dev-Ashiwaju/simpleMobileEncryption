@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MobileEncryption</string>
+    <string name="user_id">Username (i.e Email)</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="not_member">No account yet? Create one</string>
+    <string name="name_hint">Fullname</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="login_text">Login</string>
+    <string name="register_text">Register</string>
+    <string name="name_error_message">Enter Full Name</string>
+    <string name="email_error_message">Enter Valid Email</string>
+    <string name="age_error_message">Enter Age</string>
+    <string name="password_error_message">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="already_member">Already a member? Login</string>
+    <string name="password_not_match">Password Does Not Matches</string>
+    <string name="email__exist_error_message">Email Already Exists</string>
+    <string name="invalid_email_password">Wrong Email or Password</string>
+    <string name="title_activity_encrypt">EncryptActivity</string>
+    <string name="textContent">Message Content</string>
+    <string name="textTitle">Message Title</string>
+    <string name="secretkey">Secret Key</string>
+    <string name="back">Back</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="sample">Example</string>
+    <string name="todo">TODO</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="designed_by">Developed By</string>
+    <string name="names">Saibu Ibraheem Ayofe</string>
+    <string name="matric">HND/17/COM/FT/144</string>
+    <string name="add_new_encryption_text">Add New Encryption Text</string>
+</resources>
